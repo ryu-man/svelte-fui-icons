@@ -3,6 +3,32 @@
   "version": "0.0.1",
   "type": "module",
   "sideEffects": false,
+  "description": "Fluent UI Icons Set for svelte-fui",
+  "homepage": "https://github.com/ryu-man/svelte-fui-icons#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryu-man/svelte-fui-icons.git"
+  },
+  "author": "ryu-man",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryu-man/svelte-fui-icons/issues"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "ui",
+    "ux",
+    "library",
+    "svelte",
+    "component",
+    "fluent",
+    "fluentui",
+    "ms",
+    "microsoft",
+    "design",
+    "modern"
+  ],
   "files": [
     "./src/*"
   ],
