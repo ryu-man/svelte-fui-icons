@@ -1,4 +1,4 @@
-# Fluent UI Svelte Icons
+# Svelte Fluent UI  Icons
 
 This library is a collection of Fluent UI icons for Svelte framework.
 
@@ -19,6 +19,6 @@ This library is a collection of Fluent UI icons for Svelte framework.
     import { CheckmarkRegular } from '@svelte-fui/icons'
 </script>
 
-<Icons src={CheckmarkRegular} />
+<Icon src={CheckmarkRegular} />
 
 ```
